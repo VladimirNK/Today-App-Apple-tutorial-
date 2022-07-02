@@ -89,4 +89,5 @@ extension ReminderListViewController {
 extension UIColor {
     static let todayListCellBackground = UIColor(named: "TodayListCellBackground")
     static let todayListCellDoneButtonTint = UIColor(named: "TodayListCellDoneButtonTint")
+    static let todayPrimaryTint = UIColor(named: "TodayPrimaryTint")
 }
