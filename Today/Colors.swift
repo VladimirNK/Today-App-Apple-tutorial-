@@ -14,6 +14,7 @@ extension UIColor {
     static let todayNavigationBackground = UIColor(named: "TodayNavigationBackground")
     static let todayProgressUpperBackground = UIColor(named: "TodayProgressUpperBackground")
     static let todayProgressLowerBackground = UIColor(named: "TodayProgressLowerBackground")
+    static let todayGradientFutureBegin = UIColor(named: "TodayGradientFutureBegin")
 }
 
 
