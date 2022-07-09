@@ -12,6 +12,8 @@ extension UIColor {
     static let todayListCellDoneButtonTint = UIColor(named: "TodayListCellDoneButtonTint")
     static let todayPrimaryTint = UIColor(named: "TodayPrimaryTint")
     static let todayNavigationBackground = UIColor(named: "TodayNavigationBackground")
+    static let todayProgressUpperBackground = UIColor(named: "TodayProgressUpperBackground")
+    static let todayProgressLowerBackground = UIColor(named: "TodayProgressLowerBackground")
 }
 
 
